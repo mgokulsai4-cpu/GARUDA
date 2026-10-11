@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix GARUDA",
+  "description": "FLY SMARTER. TRAVEL BETTER",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
